@@ -3,6 +3,8 @@
 *...--local -> apemas para projeto atual*
                 ... user.name -> nome do autor
                 ... user.email -> email do autor
+## git checkout -n main
+## git push origin main
            
 *--list -> lista as configurações*
 
